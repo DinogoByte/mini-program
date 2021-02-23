@@ -1,0 +1,7 @@
+<view class="indexContainer">
+  <image class="avatarUrl" src="/static/images/nvsheng.jpg"></image>
+  <text class="userName">Demo</text>
+  <view class="goStudy">
+    <text>Hello world</text>
+  </view>
+</view>
