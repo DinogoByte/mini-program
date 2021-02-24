@@ -3,7 +3,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #333334;
+  background-color: #ffffff;
+  height: 100%;
 }
 .avatarUrl{
   width: 200rpx;
